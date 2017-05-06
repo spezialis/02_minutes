@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8e59b2679e07d4cd9a0a9a6be0209309
+timeCreated: 1463121684
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_playTexture: {fileID: 2800000, guid: b39aacb32376947e89a9f1c73d472646, type: 3}
+  - m_busyTexture: {fileID: 2800000, guid: d95f762057269451497d23af1aec10b1, type: 3}
+  - m_errorTexture: {fileID: 2800000, guid: 8bdf85e50cade40f6952b9d700f3855d, type: 3}
+  - mKeyframeTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

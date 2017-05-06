@@ -3,7 +3,7 @@
 
 This application is thought as a kind of hack, it's way to humorously criticize the 20 minutes journal content that we often find empty, free of content, and badly written.
 
-The application is called 2 minutes because, in one hand, it only refers to the 20 minutes newspapers, on the other hand it means that this is an experience that can be lived on weekdays and that does not last more than 2 minutes.
+The application is called 2 minutes because, in one hand, it only refers to the 20 minutes newspapers, on the other hand it means that this is an experience that can be lived on weekdays and that doesn't last more than 2 minutes.
 
 The application functions is to enhance the information delivered by the 20 minutes newspapers so it becomes interactive and digitally manipulable. Sometimes the content of the covers are replaced by popular videos. Some other times, the titles as well as the paragraph contents are changed or spoken by some strange voices. Other times all advertisements are displayed outside the newspaper.
 

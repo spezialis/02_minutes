@@ -19,19 +19,15 @@ The 20 minutes newspaper and the Augmented Reality technology offered us endless
 This project has been realized during a workshop week lead by Andreas Gysin at ECAL.
 
 The 20 minutes we used to create the digital content are:<br>
-**Lausanne 02.05.2016**
+- Lausanne 02.05.2016
 <!-- ![Alt text](/Documentation/20_minutes_covers/20min02052016.jpg) -->
-
-**Lausanne 04.05.2016**
+- Lausanne 04.05.2016
 <!-- ![Alt text](/Documentation/20_minutes_covers/20min04052016.jpg) -->
-
-**Lausanne 10.05.2016**
+- Lausanne 10.05.2016
 <!-- ![Alt text](/Documentation/20_minutes_covers/20min10052016.jpg) -->
-
-**Lausanne 11.05.2016**
+- Lausanne 11.05.2016
 <!-- ![Alt text](/Documentation/20_minutes_covers/20min11052016.jpg) -->
-
-**Lausanne 12.05.2016**
+- Lausanne 12.05.2016
 <!-- ![Alt text](/Documentation/20_minutes_covers/20min12052016.jpg) -->
 
 To create and then build the Android application we used [Unity 3D](https://unity3d.com) engine. To realize the Augmented Reality content we used [Vuforia](https://vuforia.com/) platform.

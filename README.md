@@ -3,7 +3,7 @@
 
 02 minutes is an Android application. It allows to the 20 minutes newspaper readers to reveal the hidden content of the covers thanks to Augmented Reality technology.
 
-This application is thought as a kind of hack, it's way to humorously criticize the 20 minutes journal content that we often find empty, free of content, and badly written.
+This application is thought as a kind of hack, it is a way to humorously criticize the 20 minutes journal content that we often find empty, free of content, and badly written.
 
 The application is called 02 minutes because, in one hand, it only refers to the 20 minutes newspapers, on the other hand it means that this is an experience that can be lived on weekdays and that doesn't last more than 2 minutes.
 
